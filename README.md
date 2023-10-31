@@ -51,7 +51,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ermiasgw/Moga-charity.git
    ```
 2. Install the necessary dependencies:
     ```sh
